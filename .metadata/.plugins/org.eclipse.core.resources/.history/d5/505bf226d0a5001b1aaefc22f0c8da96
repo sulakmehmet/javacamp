@@ -3,7 +3,7 @@ package miniProjeAsalSayi;
 public class Main {
 
 	public static void main(String[] args) {
-		int number = 13;
+		int number = 1;
 
 		boolean isPrime = true;
 
