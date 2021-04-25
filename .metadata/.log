@@ -1203,3 +1203,12 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.core.resources 2 2 2021-04-25 16:50:35.706
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-04-25 16:50:35.707
+!MESSAGE The project description file (.project) for 'mukemmelSayi' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-04-25 16:50:35.707
+!MESSAGE The project description file (.project) for 'sayiBulma' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-04-25 16:50:35.707
+!MESSAGE The project description file (.project) for 'sesliHarfler' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
