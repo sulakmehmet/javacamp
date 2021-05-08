@@ -36,3 +36,8 @@ Java OOP Soyutlama 2
 ## 5.Gün
 Java Kurumsal Mimarilere Giriş
 * <a href="https://github.com/sulakmehmet/javacamp/tree/main/nLayeredDemo" target="blank">n Layered Demo</a>
+* <a href="https://github.com/sulakmehmet/javacamp/tree/main/eCommerce" target="blank">E-Commerce Ödev</a>
+
+## 6.Gün
+Kurumsal Mimaride Spring Boot
+* <a href="https://github.com/sulakmehmet/javacamp/tree/main/northwind" target="blank">Noerthwind</a>
