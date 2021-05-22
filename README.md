@@ -40,4 +40,4 @@ Java Kurumsal Mimarilere Giriş
 
 ## 6.Gün
 Kurumsal Mimaride Spring Boot
-* <a href="https://github.com/sulakmehmet/javacamp/tree/main/northwind" target="blank">Noerthwind</a>
+* <a href="https://github.com/sulakmehmet/javacamp/tree/main/northwind" target="blank">Northwind</a>
